@@ -17,9 +17,4 @@
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evairlima/evairlima/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evairlima/evairlima/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evairlima/evairlima/output/github-contribution-grid-snake.svg"> </picture> </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=evairlima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy"/> </p> <p align="center"> <i>"Código limpo é código que até seu eu do futuro agradece"</i> </p>-snake-dark.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     
