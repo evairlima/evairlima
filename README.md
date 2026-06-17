@@ -15,6 +15,6 @@
 <p align="center"> <a href="https://github.com/evairlima/aula-versionamento"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=evairlima&repo=aula-versionamento&theme=tokyonight&hide_border=true" /> </a> </p>
 🐍 Contribuições
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evairlima/evairlima/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evairlima/evairlima/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evairlima/evairlima/output/github-contribution-grid-snake.svg"> </picture> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=evairlima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy"/> </p> <p align="center"> <i>"Código limpo é código que até seu eu do futuro agradece"</i> </p>-snake-dark.svg
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=evairlima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy"/> </p> <p align="center"> <i>"Código limpo é código que até seu eu do futuro agradece"</i>
 
      
