@@ -4,7 +4,7 @@
 👨‍🏫 Compartilho conhecimento no repo aula-versionamento
 🌱 Estudando IA aplicada, Vibe Coding e Low-Code
 💬 Pergunte-me sobre Git, GitHub, n8n, Docker, Automação
-📫 Me chama: evair.lima@email.com
+📫 Me chama: evaiir.lima@gmail.com
 ⚡ Fun fact: Automatizo até o café se deixar
 📍 Campina Grande - PB, Brasil
 🛠️ Tech Stack
